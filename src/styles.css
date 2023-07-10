@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background: rgb(43, 43, 43);
+}
+
+.container {
+  width: 700px;
+  margin: auto;
+  text-align: center;
+  margin-top: 200px;
+  color: #fff;
+  text-shadow: #fff 0 0 10px;
+  text-transform: uppercase;
+  font-family: "Barlow", sans-serif;
+}
+.container h1 {
+  font-size: 30px;
+}
+.container p {
+  font-size: 20px;
+}
